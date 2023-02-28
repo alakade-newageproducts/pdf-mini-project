@@ -1,6 +1,6 @@
 ### pdf-mini-project
 
-@pdf_data_tables_extraction.ipynb
+#### pdf_data_tables_extraction.ipynb
 
 This Jupyter notebook demonstrates how to extract tabular data from PDF files using Python. The notebook uses the tabula-py library to extract tables from PDFs and pandas library to manipulate and visualize the extracted data.
 
@@ -14,7 +14,7 @@ Cleaning and manipulating the extracted data: How to use pandas to clean and man
 
 To run the notebook, you will need to have Python 3 installed along with the required libraries: tabula-py, pandas, PyPDF2, and OCR modules.
 
-@pdf_reader_bank_statements.ipynb
+#### pdf_reader_bank_statements.ipynb
 This Jupyter notebook demonstrates how to read and extract information from bank statement PDF files using Python. The notebook uses the PyPDF2 library to read PDF files and regular expressions (regex) to extract relevant information from the statements.
 
 The notebook is divided into the following sections:
